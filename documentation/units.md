@@ -1,7 +1,7 @@
 # Units and Unit types
 ---
 ## How to use fundamental units.
-As a part of the header file, the seven standard SI units are already ready to go. Those are:
+As a part of the `core` header file, the seven standard SI units are already ready to go. Those are:
 
 1. Second
 2. Meter
